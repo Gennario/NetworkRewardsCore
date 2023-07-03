@@ -1,4 +1,4 @@
 name: NetworkRewardsCore
 version: '${project.version}'
 main: cz.gennario.networkrewardscore.Main
-api-version: 1.20
+api-version: 1.13
